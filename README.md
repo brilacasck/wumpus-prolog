@@ -1,5 +1,10 @@
 # The Wumpus World in Prolog
-The Wumpus world problem deals with an AI robot navigating its way through a 4x4 puzzle to try and find gold. The robot must safely navigate its way around bottomless pits of death and evil Wumpus creatures to locate the gold hidden on the board. After it has successfully found the gold, it must safely navigate its way back to the starting point. The robot must use its light sensors and the signals sent to it at each square to determine which way to properly navigate to reach its goal.
+
+The Wumpus world problem deals with an AI robot navigating its way through a 4x4 puzzle to try and find gold.
+
+The robot must safely navigate its way around bottomless pits of death and evil Wumpus creatures to locate the gold hidden on the board.
+
+After it has successfully found the gold, it must safely navigate its way back to the starting point. The robot must use its light sensors and the signals sent to it at each square to determine which way to properly navigate to reach its goal.
 
 However, we change the dynamic of the world as following :
 
@@ -18,10 +23,17 @@ However, we change the dynamic of the world as following :
 ![wumpus](http://i63.tinypic.com/9tenvd.jpg)
 
 
-This code is implemented in prolog. [Prolog](https://en.wikipedia.org/wiki/Prolog) is a general-purpose logic programming language associated with artificial intelligence and computational linguistics. There are many different versions of prolog but the one that we used is [swi-prolog](http://www.swi-prolog.org/).
+This code is implemented in prolog.
+
+[Prolog](https://en.wikipedia.org/wiki/Prolog) is a general-purpose logic programming language associated with artificial intelligence and computational linguistics.
+
+There are many different versions of prolog but the one that we used is [swi-prolog](http://www.swi-prolog.org/).
 
 ## Dependency
-SWI-Prolog is available in diffrent platforms. you could find and download the version that you want from [here](http://www.swi-prolog.org/download/stable).
+
+SWI-Prolog is available in diffrent platforms.
+
+you could find and download the version that you want from [here](http://www.swi-prolog.org/download/stable).
 
 but for ubuntu you can use the PPA as follow:
 
@@ -30,6 +42,7 @@ sudo add-apt-repository ppa:swi-prolog/stable
 sudo apt-get update
 sudo apt-get install swi-prolog
 ```
+
 and for executing the code. Open a terminal and change the current directory to the directory in which there are is the source file (the code also needs the data.db file for configuration). Then run the **swipl** command to start SWI-Proglog and then for compiling and running the code you should enter the following to the terminal: 
 
 ```
@@ -42,7 +55,7 @@ start.
 
 ## Authors
 
-  - Amirhossein HassanKhani ( [@@amirhossein-hkh](https://github.com/@amirhossein-hkh) )
+  - Amirhossein HassanKhani ( [@amirhossein-hkh](https://github.com/@amirhossein-hkh) )
   - Alireza Kavian ( [@alirezakay](https://github.com/alirezakay) )
 
   
