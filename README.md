@@ -4,7 +4,7 @@ The Wumpus world problem deals with an AI robot navigating its way through a 4x4
 However, we change the dynamic of the world as following :
   * The world is rectangular grid which is in the close space and which has width x length number of rooms. 
   * The goal of the agent is to go to outside using one of these exits.
-  * There is an exits in some of these rooms which is guarded and the only way for the agent to use these exit is to answer a question about the world to the gaurd, otherwise he will lost the game.
+  * There is an exits in some of these rooms which is guarded and the only way for the agent to use these exit is to answer a question about the world to the gaurd, otherwise he will lose the game.
   * There is a flashlight or a light bulb in some of the rooms and agent can not enter any room that there is no light in it (whether by turning on the light bulb or by holding the flash light in his hand).
   * The agent also has some energy (power) which is going to be consume after each step that he will take and this energy consumption is related to wheather his hand is empty or not.
   * There is food in some rooms which agent can eat to increase his energy.
