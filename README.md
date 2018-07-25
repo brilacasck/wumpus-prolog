@@ -55,7 +55,7 @@ start.
 
 ## Authors
 
-  - Amirhossein HassanKhani ( [@amirhossein-hkh](https://github.com/@amirhossein-hkh) )
+  - Amirhossein HassanKhani ( [@amirhossein-hkh](https://github.com/amirhossein-hkh) )
   - Alireza Kavian ( [@alirezakay](https://github.com/alirezakay) )
 
   
