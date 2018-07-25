@@ -2,6 +2,7 @@
 The Wumpus world problem deals with an AI robot navigating its way through a 4x4 puzzle to try and find gold. The robot must safely navigate its way around bottomless pits of death and evil Wumpus creatures to locate the gold hidden on the board. After it has successfully found the gold, it must safely navigate its way back to the starting point. The robot must use its light sensors and the signals sent to it at each square to determine which way to properly navigate to reach its goal.
 
 However, we change the dynamic of the world as following :
+
   * The world is rectangular grid which is in the close space and it has widthxlength rooms. 
   * The goal of the agent is to go to outside using one of the exits which are in some rooms.
   * The exit is guarded and the only way for the agent to use the exit is to answer a question about the world to the gaurd, otherwise he will lose the game.
@@ -11,7 +12,7 @@ However, we change the dynamic of the world as following :
   * There is a giant in some of the rooms and the agent can only defeat the giant when he has a weapon otherwise he will die.
   * The sound of giant shout can be heard from adjacent rooms so when the agent will hear the shout, it means that there is giant in at least one of the adjadcent rooms. 
   
-  Here is a picture of the world : 
+**Here is a picture of the world :**
 
 
 ![wumpus](http://i63.tinypic.com/9tenvd.jpg)
@@ -36,4 +37,24 @@ and for executing the code. Open a terminal and change the current directory to 
 start.
 ```
 
+
+<hr />
+
+## Authors
+
+  - Amirhossein HassanKhani ( [@@amirhossein-hkh](https://github.com/@amirhossein-hkh) )
+  - Alireza Kavian ( [@alirezakay](https://github.com/alirezakay) )
+
+  
+## Org.
+
+  - ***[Brilacasck](https://brilacasck.ir)*** 
+  
+## Team
+  
+  - ***HAKA TEAM***
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
 
