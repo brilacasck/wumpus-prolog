@@ -1,6 +1,6 @@
 # The Wumpus World in Prolog
 
-The Wumpus world problem deals with an AI robot navigating its way through a 4x4 puzzle to try and find gold.
+The Wumpus world problem deals with an **AI robot** navigating its way through a 4x4 puzzle to try and find gold.
 
 The robot must safely navigate its way around bottomless pits of death and evil Wumpus creatures to locate the gold hidden on the board.
 
