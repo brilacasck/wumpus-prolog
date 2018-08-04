@@ -56,7 +56,7 @@ start.
 
 ## TEST
 
-You can **Run** the test online here: [play](https://showcase.brilacsack.ir/wumpus-prolog)
+You can **Run** the test online here: [play](https://showcase.brilacasck.ir/wumpus-prolog)
 
 ***Note That***
 
