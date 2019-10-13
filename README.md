@@ -20,7 +20,7 @@ After it has successfully found the gold, it must safely navigate its way back t
 **Here is a picture of the world :**
 
 
-![wumpus](http://i63.tinypic.com/9tenvd.jpg)
+![wumpus](wumpus.png)
 
 
 This code is implemented in prolog.
